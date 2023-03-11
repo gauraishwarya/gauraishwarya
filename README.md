@@ -1,3 +1,4 @@
+![logo](https://github.com/gauraishwarya/gauraishwarya/blob/main/dataanalytics-mobile-banner.jpg)
 <h1 align="center">Hi 👋, I'm Aishwarya Singh Gaur</h1>
 <h3 align="center">An analytical and diligent individual seeking an opportunity to establish a career in Data Analytics.</h3>
 
